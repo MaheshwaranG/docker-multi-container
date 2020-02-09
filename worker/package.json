@@ -1,0 +1,16 @@
+{
+  "name": "worker",
+  "version": "1.0.0",
+  "description": "worker ",
+  "main": "index.js",
+  "scripts": {
+    "start" : "node index.js",
+    "dev" : "nodemon"
+  },
+  "dependencies": {
+    "redis": "^2.8.0",
+    "nodemon": "2.0.2"
+  },
+  "author": "Maheshwaran G",
+  "license": "ISC"
+}
